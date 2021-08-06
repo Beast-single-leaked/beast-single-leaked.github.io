@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card img{
+    height: 150px;
+    width: 200px;
+}
+.display-1{
+    text-decoration: underline;
+}
+.box{
+    box-shadow: 2px 2px 8px black;
+}
